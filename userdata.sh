@@ -30,7 +30,7 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server1</h1>
+  <h1>Testing Project Server</h1>
   <p>Hello I am Yash Parab an aspiring Cloud engineer with expertise in AWS and DevOps tools, delivering scalable and efficient cloud solutions. Skilled in Docker, Terraform, Jenkins, Git, and more</p>
   
 </body>
