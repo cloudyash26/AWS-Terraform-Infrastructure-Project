@@ -30,7 +30,7 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project Server 2</h1>
+  <h1>Development Project Server</h1>
   <p>Hello Welcome to my website</p>
   
 </body>
